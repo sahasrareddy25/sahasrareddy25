@@ -1,69 +1,52 @@
 <h1 align="center">Sahasra Reddy</h1>
 <p align="center">
-  <b>Computer Science Undergraduate • Aspiring Software Engineer</b>
+  <b>B.Tech CSE Student | Aspiring Software Engineer</b>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Python+Developer;DSA+Enthusiast;ML+Beginner;Product-Based+Company+Prep&center=true&width=480&height=40">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Python;DSA;Machine+Learning;OpenCV&center=true&width=480&height=40">
 </p>
 
 ---
 
-## 👋 About Me
-I am a **3rd-year B.Tech CSE student at Mallareddy University**, focused on building a **strong foundation in Python, Data Structures, and Machine Learning**.  
-I enjoy converting ideas into working projects and consistently practice coding to prepare for **product-based company roles**.
-
----
-
-## 🧠 Core Skills
-- **Programming:** Python, Java (Basics)  
-- **Data & ML:** Pandas, NumPy, Scikit-learn  
-- **Computer Vision:** OpenCV  
-- **Tools:** Git, GitHub, VS Code, Google Colab  
-
----
-
-## 📂 Selected Projects
-
-### 🚕 Ola Ride Request Forecast
-**Machine Learning-based demand prediction system**
-
-- Cleaned and analyzed real-world ride data  
-- Built predictive model using Scikit-learn  
-- Deployed interactive UI using Streamlit  
-
-**Tech:** Python • Pandas • Scikit-learn • Streamlit  
-
-🔗 https://github.com/sahasrareddy25/ola-ride-forecast
-
----
-
-### 🎨 Image Cartoonizer
-**Image processing project using OpenCV**
-
-- Converted real images into cartoon-style visuals  
-- Implemented edge detection and color quantization  
-
-**Tech:** Python • OpenCV  
-
-🔗 https://github.com/sahasrareddy25/image-cartoonizer
-
----
-
-## 📊 GitHub Analytics
+## ⚡ Skills
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sahasrareddy25&show_icons=true&theme=github_dark&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahasrareddy25&layout=compact&theme=github_dark&hide_border=true" height="165"/>
+  <img src="https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-%23F7931E.svg?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-%23FF6F00.svg?style=for-the-badge&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
 ---
 
-## 🎯 Career Objective
-To secure a **software engineering role in a product-based company**, where I can apply my problem-solving skills and continuously grow as a developer.
+## 📂 Projects
+<p align="center">
+  <a href="https://github.com/sahasrareddy25/ola-ride-forecast">
+    <img src="https://img.shields.io/badge/Ola_Ride_Forecast-Python-blue?style=for-the-badge"/>
+  </a>
+  <a href="https://github.com/sahasrareddy25/image-cartoonizer">
+    <img src="https://img.shields.io/badge/Image_Cartoonizer-Python-orange?style=for-the-badge"/>
+  </a>
+</p>
 
 ---
+
+## 📊 Stats
+<p align="center">
+  <a href="https://leetcode.com/sahasrareddy25/">
+    <img src="https://img.shields.io/badge/LeetCode-Stats-yellow?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+  <a href="https://www.hackerrank.com/sahasrareddy25">
+    <img src="https://img.shields.io/badge/HackerRank-Stats-green?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+  </a>
+</p>
 
 <p align="center">
-  <i>“Consistency beats talent when talent doesn’t stay consistent.”</i>
+  <img src="https://github-readme-stats.vercel.app/api?username=sahasrareddy25&show_icons=true&theme=react&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahasrareddy25&layout=compact&theme=react&hide_border=true" height="150"/>
 </p>
+
 
