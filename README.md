@@ -1,16 +1,36 @@
 ## Hi there 👋
+<h1 align="center">Hi 👋, I'm Sahasra Reddy</h1>
+<h3 align="center">B.Tech CSE Student | Aspiring Software Engineer</h3>
 
-<!--
-**sahasrareddy25/sahasrareddy25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Python+Developer;DSA+Learner;Machine+Learning+Beginner;Product-Based+Company+Prep&center=true&width=500&height=45">
+</p>
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🎓 3rd year B.Tech CSE student at Mallareddy University  
+- 🐍 Focused on Python & Data Structures  
+- 💻 Practicing on LeetCode & HackerRank  
+- 🛠️ Building ML & OpenCV beginner projects  
+- 🎯 Goal: Get placed in a product-based company  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- 🐍 Python  
+- ☕ Java (Basics)  
+- 🧮 Pandas, NumPy  
+- 🤖 Scikit-learn  
+- 🎨 OpenCV  
+- 🌱 Git, GitHub  
+- 🖥️ VS Code, Google Colab  
+
+## 📌 Featured Projects
+### 🚕 Ola Ride Request Forecast
+- ML-based ride demand prediction  
+- Tech: Python, Pandas, Scikit-learn, Streamlit  
+
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sahasrareddy25&show_icons=true&theme=react" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahasrareddy25&layout=compact&theme=react" height="160"/>
+</p>
+
