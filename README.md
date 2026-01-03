@@ -64,11 +64,11 @@ I believe consistency, curiosity, and clarity are the real superpowers in tech.
 
 ---
 
-#### [🐍 Contribution Flow
+#### ## 🐍 Contribution Flow
 <p align="center">
-  <img src="https://github.com/sahasrareddy25/output/github-contribution-grid-snake-dark.svg"/>
-</p>](https://github.com/sahasrareddy25/output/github-contribution-grid-snake-dark.svg
-)
+  <img src="https://activity-graph.herokuapp.com/graph?username=sahasrareddy25&theme=react-dark&hide_border=true"/>
+</p>
+
 
 
 ---
