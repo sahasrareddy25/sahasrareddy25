@@ -1,5 +1,11 @@
-<h1 align="center">I am Sahasra Reddy Perati</h1>
-<h3 align="center">Creative CSE Student • Problem Solver • Future Product Engineer</h3>
+<h1 align="center">
+  <b>I am Sahasra Reddy Perati</b>
+</h1>
+<h3 align="center">
+  <img src="https://img.shields.io/badge/Creative_CSE_Student-blue?style=for-the-badge&logo=appveyor"/>
+  <img src="https://img.shields.io/badge/Problem_Solver-green?style=for-the-badge&logo=leetcode"/>
+  <img src="https://img.shields.io/badge/Future_Product_Engineer-orange?style=for-the-badge&logo=github"/>
+</h3>
 
 ---
 
