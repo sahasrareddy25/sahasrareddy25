@@ -52,17 +52,15 @@ I believe consistency, curiosity, and clarity are the real superpowers in tech.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahasrareddy25&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-
 ## 🚀 LeetCode Stats
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/sahasrareddy25?theme=dark&font=JetBrains%20Mono&ext=contest"/>
+  <img src="https://leetcard.jacoblin.cool/sahasrareddyperati?theme=dark&font=JetBrains%20Mono&ext=contest"/>
 </p>
-
 
 ---
 
