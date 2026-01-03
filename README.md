@@ -11,11 +11,7 @@ I believe consistency, curiosity, and clarity are the real superpowers in tech.
 ---
 
 ## 🧩 My Coding Skillset (Not Just Names)
-- 🧠 **Logic Builder** – Strong grip on problem solving & DSA fundamentals  
-- 🐍 **Python Thinker** – Writing readable, efficient, real-world code  
-- 🌐 **Web Crafter** – Turning ideas into functional interfaces  
-- ⚙️ **Backend Explorer** – APIs, databases, and system flow  
-- 🤖 **AI Curious Mind** – Exploring ML & intelligent systems  
+
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,c,java,html,css,js,flask,git,github,linux&theme=dark"/>
@@ -73,4 +69,4 @@ I believe consistency, curiosity, and clarity are the real superpowers in tech.
 
 ---
 
-<h3 align="center">⚡ Consistency and  ⚡</h3>
+<h3 align="center">⚡Consistency⚡</h3>
