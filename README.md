@@ -1,24 +1,73 @@
-<h1 align="center">Sahasra Reddy</h1>
-<p align="center">
-  <b>B.Tech CSE Student | Aspiring Software Engineer</b>
-</p>
+<h1 align="center">Hi 👋, I'm Mahesh</h1>
+<h3 align="center">Aspiring Software Engineer | CSE Student | Python & AI Enthusiast</h3>
 
+---
+
+### 👨‍💻 About Me
+- 🎓 3rd Year B.Tech CSE Student  
+- 🎯 Goal: Get placed in a **product-based company**
+- 🧠 Currently learning **Python, DSA, APIs, AI & ML**
+- 🛠️ Building real-world projects using **Flask, Streamlit & OpenCV**
+- 🚀 Believe in learning by **building & improving**
+
+---
+
+### 🛠️ Tech Stack
+**Languages:**  
+- Python 🐍  
+- C (Basics)
+
+**Libraries & Tools:**  
+- NumPy  
+- Pandas  
+- OpenCV  
+- Streamlit  
+- Flask  
+- Git & GitHub  
+
+**Core Skills:**  
+- Data Structures & Algorithms  
+- Problem Solving  
+- API Integration  
+- Machine Learning Basics  
+
+---
+
+### 📂 Featured Projects
+🔹 **Beyond the Pixels – Object Detection for Smart World**  
+- AI-based object detection system using deep learning  
+- Focused on smart surveillance & automation  
+
+🔹 **Smart Shelf – Food Spoilage Detection (IoT)**  
+- Arduino-based food monitoring system  
+- Sensors + automation to reduce food waste  
+
+🔹 **Ola Ride Demand Forecasting App**  
+- Streamlit web app for ride request prediction  
+- Deployed & integrated with ML model  
+
+🔹 **Image Cartoonizer using OpenCV**  
+- Converts real images into cartoon-style outputs  
+- Python + OpenCV based computer vision project  
+
+---
+
+### 📊 GitHub Stats
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Python;DSA;Machine+Learning;OpenCV&center=true&width=480&height=40">
+  <img src="https://github-readme-stats.vercel.app/api?username=maheshmahi224&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maheshmahi224&theme=tokyonight" />
 </p>
 
 ---
 
-## ⚡ Skills
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-%23F7931E.svg?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenCV-%23FF6F00.svg?style=for-the-badge&logo=opencv&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white"/>
-</p>
+### 🌐 Connect With Me
+- 💼 LinkedIn: *(Add your LinkedIn link here)*  
+- 📧 Email: *(Optional)*  
+
+---
+
+⭐ **“Consistency beats talent when talent doesn’t work consistently.”**
+>
 
 ---
 
