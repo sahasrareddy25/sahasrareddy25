@@ -1,76 +1,69 @@
-<h1 align="center">I am Sahasra Reddy Perati</h1>
-<h3 align="center">Creative CSE Student • Problem Solver • Future Product Engineer</h3>
+<h1 align="center">Hi 👋 I'm <span style="color:#ff6f61;">Sahasra Reddy</span></h1>
+<h3 align="center">🚀 CSE Student | Creative Developer | Product-Based Aspirant</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="450"/>
+  <img src="https://raw.githubusercontent.com/your-username/your-repo/main/minimal-template.png" width="480"/>
 </p>
 
 ---
 
 ## 🧠 About Me
-I am a **3rd-year Computer Science student** who enjoys building things that actually matter.  
-I focus on **problem-solving, clean logic, and real-world applications**, and I am actively preparing for **product-based company roles**.  
-I believe consistency, curiosity, and clarity are the real superpowers in tech.
+- 🎓 3rd Year CSE Student @ Mallareddy University
+- 🎯 Aiming for **Product-Based Companies**
+- 💻 Interested in **Python, DSA, Full-Stack & AI**
+- 🧩 Love building **real-world impactful projects**
 
 ---
 
-## 🧩 My Coding Skillset (Not Just Names)
-- 🧠 **Logic Builder** – Strong grip on problem solving & DSA fundamentals  
-- 🐍 **Python Thinker** – Writing readable, efficient, real-world code  
-- 🌐 **Web Crafter** – Turning ideas into functional interfaces  
-- ⚙️ **Backend Explorer** – APIs, databases, and system flow  
-- 🤖 **AI Curious Mind** – Exploring ML & intelligent systems  
-
+## 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,java,html,css,js,flask,git,github,linux&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=python,c,java,html,css,js,flask,git,github,linux&theme=dark" />
 </p>
 
 ---
 
-## 🌐 Coding & Professional Profiles
-<p align="center">
-  <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME">
-    <img src="https://img.shields.io/badge/LeetCode-121212?style=for-the-badge&logo=leetcode&logoColor=orange"/>
-  </a>
-  <a href="https://www.hackerrank.com/YOUR_HACKERRANK_USERNAME">
-    <img src="https://img.shields.io/badge/HackerRank-121212?style=for-the-badge&logo=hackerrank&logoColor=green"/>
-  </a>
-  <a href="https://www.interviewbit.com/profile/YOUR_INTERVIEWBIT_USERNAME">
-    <img src="https://img.shields.io/badge/InterviewBit-121212?style=for-the-badge&logo=codeforces&logoColor=blue"/>
-  </a>
-  <a href="https://www.codechef.com/users/YOUR_CODECHEF_USERNAME">
-    <img src="https://img.shields.io/badge/CodeChef-121212?style=for-the-badge&logo=codechef&logoColor=brown"/>
-  </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
-
----
-
-## 📊 GitHub Activity
+## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
 </p>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## 🧠 LeetCode Performance
+## 🧠 LeetCode Stats
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=JetBrains%20Mono&ext=contest"/>
+  <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=JetBrains%20Mono&ext=contest" />
 </p>
 
 ---
 
-## 🐍 Contribution Flow
+## 🚀 Featured Projects
+- 🔥 **Ola Ride Forecast** – ML-based demand prediction
+- 🤖 **Beyond The Pixels** – Object Detection for Smart World
+- 🧠 **Cartoonizer App** – OpenCV Image Processing
+- 🌐 **JANSEVA LINK** – AI-Assisted Citizen Grievance Platform
+
+---
+
+## 🐍 Contribution Activity
 <p align="center">
   <img src="https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/blob/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
 ---
 
-<h3 align="center">⚡ Building skills quietly. Letting results speak loudly. ⚡</h3>
+## 🌐 Connect With Me
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:YOUR_EMAIL_ID">
+    <img src="https://img.shields.io/badge/Gmail-121212?style=for-the-badge&logo=gmail&logoColor=red"/>
+  </a>
+</p>
+
+---
+
+<h3 align="center">⚡ Code • Create • Improve • Repeat ⚡</h3>
