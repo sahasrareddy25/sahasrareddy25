@@ -10,13 +10,16 @@
 ---
 
 ## 🧠 About Me
-I am a **3rd-year Computer Science student** 
-Passionate about problem solving, machine learning
+I’m Sahasra Reddy passionate about coding and problem-solving.  
+I love building projects that combine creativity with real-world impact.  
+Currently honing skills in Python, DSA, and full-stack development.  
+Always eager to learn, explore, and contribute to innovative tech solutions.
+
 
 
 ---
 
-## 🧩 Skills(Not Just Names)
+## 🧩 Skills
 
 
 <p align="center">
