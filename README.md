@@ -1,16 +1,16 @@
-<h1 align="center">Hi 👋 I'm <span style="color:#ff6f61;">Sahasra Reddy</span></h1>
+<h1 align="center">Hi 👋 I'm Sahasra Reddy</h1>
 <h3 align="center">🚀 CSE Student | Creative Developer | Product-Based Aspirant</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/your-username/your-repo/main/minimal-template.png" width="480"/>
+  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="480"/>
 </p>
 
 ---
 
 ## 🧠 About Me
-- 🎓 3rd Year CSE Student @ Mallareddy University
-- 🎯 Aiming for **Product-Based Companies**
-- 💻 Interested in **Python, DSA, Full-Stack & AI**
+- 🎓 3rd Year CSE Student @ Mallareddy University  
+- 🎯 Aiming for **Product-Based Companies**  
+- 💻 Interested in **Python, DSA, Full-Stack & AI**  
 - 🧩 Love building **real-world impactful projects**
 
 ---
@@ -26,6 +26,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
 </p>
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
 </p>
@@ -40,10 +41,10 @@
 ---
 
 ## 🚀 Featured Projects
-- 🔥 **Ola Ride Forecast** – ML-based demand prediction
-- 🤖 **Beyond The Pixels** – Object Detection for Smart World
-- 🧠 **Cartoonizer App** – OpenCV Image Processing
-- 🌐 **JANSEVA LINK** – AI-Assisted Citizen Grievance Platform
+- 🔥 **Ola Ride Forecast** – ML-based demand prediction  
+- 🤖 **Beyond The Pixels** – Object Detection for Smart World  
+- 🧠 **Cartoonizer App** – OpenCV Image Processing  
+- 🌐 **JANSEVA LINK** – AI-Assisted Citizen Grievance Platform  
 
 ---
 
@@ -66,4 +67,4 @@
 
 ---
 
-<h3 align="center">⚡ Code • Create • Improve • Repeat ⚡</h3>
+<h3 align="center">⚡ Code • Create • Improve • Repeat ⚡</h3>>
