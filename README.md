@@ -1,10 +1,6 @@
 <h1 align="center">I am Sahasra Reddy Perati</h1>
 <h3 align="center">Creative CSE Student • Problem Solver • Future Product Engineer</h3>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="450"/>
-</p>
-
 ---
 
 ## 🧠 About Me
