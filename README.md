@@ -46,18 +46,6 @@ Passionate about problem solving, machine learning
 
 ---
 
-## 📊 GitHub Activity
-<p align="center">
-  <!-- Your GitHub main stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=sahasrareddy25&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
-</p>
-
-<p align="center">
-  <!-- Your GitHub streak stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahasrareddy25&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
-
-
 ---
 
 ## 🚀 LeetCode Stats
