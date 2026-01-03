@@ -10,7 +10,7 @@ I believe consistency, curiosity, and clarity are the real superpowers in tech.
 
 ---
 
-## 🧩 My Coding Skillset (Not Just Names)
+## 🧩 Skills(Not Just Names)
 
 
 <p align="center">
@@ -19,7 +19,7 @@ I believe consistency, curiosity, and clarity are the real superpowers in tech.
 
 ---
 
-## 🌐 Coding & Professional Profiles
+## 🌐 Coding profiles
 <p align="center">
   <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME">
     <img src="https://img.shields.io/badge/LeetCode-121212?style=for-the-badge&logo=leetcode&logoColor=orange"/>
