@@ -1,6 +1,8 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&color=FF5733&center=true&width=600&lines=Hey+there!+I+am+Sahasra+Reddy+Perati"/>
-</p>
+<h1 align="center">
+  <span style="background: linear-gradient(to right, #ff6a00, #ee0979); -webkit-background-clip: text; color: transparent;">
+    Sahasra Reddy Perati
+  </span>
+</h1>
 
 ---
 
