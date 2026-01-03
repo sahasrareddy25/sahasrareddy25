@@ -1,11 +1,6 @@
-<h1 align="center">
-  <b>I am Sahasra Reddy Perati</b>
-</h1>
-<h3 align="center">
-  <img src="https://img.shields.io/badge/Creative_CSE_Student-blue?style=for-the-badge&logo=appveyor"/>
-  <img src="https://img.shields.io/badge/Problem_Solver-green?style=for-the-badge&logo=leetcode"/>
-  <img src="https://img.shields.io/badge/Future_Product_Engineer-orange?style=for-the-badge&logo=github"/>
-</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&color=FF5733&center=true&width=600&lines=Hey+there!+I+am+Sahasra+Reddy+Perati"/>
+</p>
 
 ---
 
