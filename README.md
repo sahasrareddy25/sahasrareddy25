@@ -10,9 +10,9 @@
 ---
 
 ## 🧠 About Me
-I am a **3rd-year Computer Science student** who enjoys building things that actually matter.  
-I focus on **problem-solving, clean logic, and real-world applications**, and I am actively preparing for **product-based company roles**.  
-I believe consistency, curiosity, and clarity are the real superpowers in tech.
+I am a **3rd-year Computer Science student** 
+Passionate about problem solving, machine learning
+
 
 ---
 
