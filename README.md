@@ -1,8 +1,11 @@
 <h1 align="center">
-  <span style="background: linear-gradient(to right, #ff6a00, #ee0979); -webkit-background-clip: text; color: transparent;">
-    Sahasra Reddy Perati
+  <span style="background: linear-gradient(90deg, #ff6a00, #ee0979); -webkit-background-clip: text; color: transparent;">
+    I am Sahasra Reddy Perati
   </span>
 </h1>
+<h3 align="center">
+  Creative CSE Student • Problem Solver • Future Product Engineer
+</h3>
 
 ---
 
