@@ -51,7 +51,7 @@ I believe consistency, curiosity, and clarity are the real superpowers in tech.
 
 ---
 
-## 🧠 LeetCode Performance
+
 ## 🚀 LeetCode Stats
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/sahasrareddy25?theme=dark&font=JetBrains%20Mono&ext=contest"/>
@@ -60,10 +60,6 @@ I believe consistency, curiosity, and clarity are the real superpowers in tech.
 
 ---
 
-#### ## 🐍 Contribution Flow
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=sahasrareddy25&theme=react-dark&hide_border=true"/>
-</p>
 
 
 
